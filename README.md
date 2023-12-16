@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+
 <h2 align="left">Hi 👋! My name is Ozzy and I am Turkish-Australian, currently exploring the depths of the beautiful data world as a passionate data analyst.</h2>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
