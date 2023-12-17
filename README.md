@@ -2,7 +2,7 @@
 <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150"/>
 </div>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>! My name is Ozzy Goylusun and I am Turkish-Australian <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Turkish%20Flag.png" width="22"> <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Australian%20Flag.png" width="22">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> My name is Ozzy Goylusun and I am Turkish-Australian <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Turkish%20Flag.png" width="22"> <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Circular%20Australian%20Flag.png" width="22">
 
 I am currently exploring the depths of the beautiful data world as a passionate data analyst.
 
