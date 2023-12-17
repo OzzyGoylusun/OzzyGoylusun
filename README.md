@@ -42,8 +42,8 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 ## 🚀 Data Visualisation Tools:
 
 <p align="center">
-   <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="240" height="140" /></a>
-   <a src=![Uploading logo2.svg…]()
+   <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="180" height="100" /></a>
+   <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="300" height="100"/></a>
 
 
 ## 🔨 Other Skills and Tools:
