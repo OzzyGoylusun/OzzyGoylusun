@@ -68,7 +68,7 @@ All of my data analysis projects completed up to date in **Excel, SQL, Python an
 
 <br>
 
-| Language  | Proficiency     | Cultural Flag              |
+| Language  | Proficiency     |              |
 | :-------- | :-------        | :------------------------- |
 | Spanish   | C1 (Autonomous Level)  | ![50216_flag_argentina_icon](https://github.com/OzzyGoylusun/OzzyGoylusun/assets/152992554/384cbb15-ba8e-4612-a738-5aa1f32e15cb)
 | German    | B1 (Proficient Level)  | ![50241_flag_german_germany_icon](https://github.com/OzzyGoylusun/OzzyGoylusun/assets/152992554/6e3c0402-a116-4a75-95ba-6ed4fd0002c6)|
