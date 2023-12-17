@@ -7,6 +7,10 @@
 
 I am currently exploring the depths of the beautiful data world as a passionate data analyst.
 
+If you are interested in select projects completed in Excel, SQL, Python and Power BI, you can refer to [**my repo**](https://github.com/OzzyGoylusun?tab=repositories) to find out more about them.
+
+
+
 
 <div id="badges" align="left">
    <a href="mailto:goylusun@gmail.com">
