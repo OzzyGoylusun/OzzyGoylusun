@@ -75,7 +75,7 @@ As part of my exploration work, I also like to share bits and pieces of my journ
 
 <br>
 
-## 📫 How to reach me:
+## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Email%20Icon.png" width="40"> How to reach me:
 
 -[**Drop an Email**](mailto:goylusun@gmail.com)
 
