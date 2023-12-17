@@ -45,7 +45,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 
 ## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Visualisation%20Icon.png" width="40" style="margin-right: 100px;"> Data Visualisation Tools:
 <p align="center">
-   <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="180" height="120" /></a>
+   <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="190" height="120" /></a>
    <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="285" height="90"/></a>
    <a href="https://imgur.com/GlKA6lo"><img src="https://i.imgur.com/GlKA6lo.png" title="source: imgur.com" width="120" height="120"/></a>
 </p>
