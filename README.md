@@ -11,7 +11,8 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 <div id="badges" align="left><p>
 <p>
   <a href="mailto:goylusun@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height=35></a> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Badge">
+  </a>
   <a href="https://www.linkedin.com/in/ozzygoylusun/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=35></a> 
   <a href="https://medium.com/@goylusun/">
