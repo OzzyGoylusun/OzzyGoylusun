@@ -6,7 +6,7 @@
 
 I am currently exploring the depths of the beautiful data world as a passionate data analyst.
 
-All of my data analysis projects completed up to date in **Excel, SQL, Python and Power BI** are available in my [**GitHub Repo.**](https://github.com/OzzyGoylusun?tab=repositories) 
+My select data analysis projects completed up to date in **Excel, SQL, Python and Power BI** are available in my [**GitHub Repo.**](https://github.com/OzzyGoylusun?tab=repositories) 
 
 As part of my exploration work, I also like to share bits and pieces of my journey on [**Medium**](https://medium.com/@goylusun) from time to time.
 
