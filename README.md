@@ -29,7 +29,7 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 - 💼 💬 Any freelance work you might request? Please reach out by email :)
 <br>
 
-## 🔨 Data Analyis Skills and Tools:
+## 🛠 Data Analyis Skills and Tools:
 <p align="center">
  <a href="https://imgur.com/FE8990X"><img src="https://i.imgur.com/FE8990X.png" title="source: imgur.com" alt="Excel" width="90" height="90" /></a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="90" height="90"/>
@@ -38,11 +38,11 @@ I am currently exploring the depths of the beautiful data world as a passionate 
  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="120" height="120"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="90" height="90"/>
 
-## Data Visualisation Tools:
+## 🚀 Data Visualisation Tools:
 
 
 
-## Other Skills and Tools:
+## 🔨 Other Skills and Tools:
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>
