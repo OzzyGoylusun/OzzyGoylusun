@@ -30,7 +30,7 @@ All of my data analysis projects completed up to date in **Excel, SQL, Python an
 - 👨‍💻 I’m a data analyst who loves sharing his journey and assisting others.
 - 🌱 I’m currently learning data storytelling.
 - 👯 I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- 💬 Let's connect on [Linkedin](https://www.linkedin.com/in/ozzygoylusun/) and read my articles on [Medium](https://medium.com/@goylusun)
+- 💬 Let's connect on [Linkedin](https://www.linkedin.com/in/ozzygoylusun/) and read my articles on [Medium.](https://medium.com/@goylusun)
 - 💼 Any freelance work you might request? Please reach out by email :)
 <br>
 
@@ -78,7 +78,7 @@ All of my data analysis projects completed up to date in **Excel, SQL, Python an
 
 ## 📫 How to reach me:
 
--[**Drop a Mail**](mailto:goylusun@gmail.com)
+-[**Drop a Email**](mailto:goylusun@gmail.com)
 
 -[**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
     
