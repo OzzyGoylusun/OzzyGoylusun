@@ -77,7 +77,7 @@ As part of my exploration work, I also like to share bits and pieces of my journ
 
 ## 📫 How to reach me:
 
--[**Drop a Email**](mailto:goylusun@gmail.com)
+-[**Drop an Email**](mailto:goylusun@gmail.com)
 
 -[**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
     
