@@ -29,6 +29,8 @@ I am Turkish-Australian, currently exploring the depths of the beautiful data wo
 - 🌱 I’m currently learning data storytelling.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on [instagram](/https://instagram.com/herdataproject) and read my articles [here](https://herdataproject.com/blog)
+- 💼 any freelance work? do reach, email :)
+💬 ask me about anything, i am happy to help;
 
 ## 🔨 Data Analyis Skills and Tools:
 <p align="left">
