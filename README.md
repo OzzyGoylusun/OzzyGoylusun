@@ -24,9 +24,9 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 ## 🧐 More About Me:
 - 👀 I’m a data analyst who loves sharing his journey with others interested.
 - 🌱 I’m currently learning data storytelling.
-- 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
+- 💬 I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on [Linkedin](https://www.linkedin.com/in/ozzygoylusun/) and read my articles on [Medium](https://medium.com/@goylusun)
-- 💼 💬 Any freelance work you might request? Please reach out by email :)
+- 💼 Any freelance work you might request? Please reach out by email :)
 <br>
 
 ## 🛠 Data Analyis Skills and Tools:
@@ -35,10 +35,13 @@ I am currently exploring the depths of the beautiful data world as a passionate 
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="90" height="90"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="90" height="90"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="90" height="90"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="120" height="120"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="90" height="90"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="120" height="120"/>
+</p>
 
 ## 🚀 Data Visualisation Tools:
+
+<p align="center">
 
 
 
@@ -47,7 +50,7 @@ I am currently exploring the depths of the beautiful data world as a passionate 
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>
- 
+</p>
 
 ## 🌐 Other Languages You Can Communciate With Me:
 
