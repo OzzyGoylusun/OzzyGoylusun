@@ -28,7 +28,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 ## 🧐 More About Me:
 - 👨‍💻 I’m a data analyst who loves sharing his journey and assisting others.
 - 🌱 I’m currently learning data storytelling.
-- 👯 I’m open to collaborate on data analysis projects; volunteer or otherwise.
+- 👯 I’m open to collaborate on data analysis projects.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/ozzygoylusun/) and read my articles on [Medium.](https://medium.com/@goylusun)
 - 💼 Any freelance work you might request? Please reach out by email :)
 <br>
