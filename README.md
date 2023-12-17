@@ -33,7 +33,7 @@ As part of my exploration work, I also like to share bits and pieces of my journ
 - 💼 Any freelance work you might request? Please reach out by email :)
 <br>
 
-## 🛠 Data Analysis Skills and Tools:
+## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Analysis%20Icon.png" width="40"> Data Analysis Skills and Tools:
 <p align="center">
  <a href="https://imgur.com/FE8990X"><img src="https://i.imgur.com/FE8990X.png" title="source: imgur.com" alt="Excel" width="90" height="90" /></a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="90" height="90"/>
@@ -43,12 +43,12 @@ As part of my exploration work, I also like to share bits and pieces of my journ
  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="120" height="120"/>
 </p>
 
-## 🚀 Data Visualisation Tools:
-
+## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Visualisation%20Icon.png" width="40" style="margin-right: 100px;"> Data Visualisation Tools:
 <p align="center">
    <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="180" height="120" /></a>
    <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="285" height="90"/></a>
    <a href="https://imgur.com/GlKA6lo"><img src="https://i.imgur.com/GlKA6lo.png" title="source: imgur.com" width="120" height="120"/></a>
+</p>
 
 
 ## 🔨 Other Skills and Tools:
