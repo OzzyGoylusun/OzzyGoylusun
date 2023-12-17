@@ -3,9 +3,11 @@
 </div>
 
 
-<h2 align="left">Hi 👋! My name is Ozzy and I am Turkish-Australian, currently exploring the depths of the beautiful data world as a passionate data analyst.</h2>
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Ozzy Goylusun!
+
+
+I am Turkish-Australian, currently exploring the depths of the beautiful data world as a passionate data analyst.
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 
 <p align="center">
