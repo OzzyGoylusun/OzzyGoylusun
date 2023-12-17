@@ -43,29 +43,26 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 
 
 ## Other Skills and Tools:
-<p align="left">
+<p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>
  
 
-### Other Languages You Can Choose to Communciate With Me 🌐
+## 🌐 Other Languages You Can Communciate With Me:
 
-| Language      | Proficiency            |
-| ------------- | ---------------------- |
-| Spanish       | C1 (Autonomous Level)  |
-| German        | B1 (Proficient Level)  |
-| Turkish       | Native                 |
+| Language  | Proficiency     | Flags                      |
+| :-------- | :-------        | :------------------------- |
+| Spanish   | C1 (Autonomous Level)  | ![50216_flag_argentina_icon](https://github.com/OzzyGoylusun/OzzyGoylusun/assets/152992554/384cbb15-ba8e-4612-a738-5aa1f32e15cb)
+| German    | B1 (Proficient Level)  | ![50241_flag_german_germany_icon](https://github.com/OzzyGoylusun/OzzyGoylusun/assets/152992554/6e3c0402-a116-4a75-95ba-6ed4fd0002c6)|
+| Turkish   | Native                 | ![50301_flag_turkey_icon](https://github.com/OzzyGoylusun/OzzyGoylusun/assets/152992554/38600a1d-b0e1-4b03-87c3-d41cbced86b9)|
 
 
+### 📫 How to reach me:
 
-###
+[**Drop a Mail**](mailto:goylusun@gmail.com)
 
-- 📫 How to reach me:
-
-    * [**Drop a Mail**](mailto:goylusun@gmail.com)
-
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
+[**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
     
 <div align="center">
 <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/connected.gif" alt="Raghav Khullar" width="350" height="200" />
