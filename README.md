@@ -63,7 +63,7 @@ As part of my exploration work, I also like to share bits and pieces of my journ
 </p>
 <br>
 
-## 🌐 You can also communicate with me:
+## 🌐 You can also communicate with me via:
 
 <br>
 
