@@ -43,7 +43,7 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 
 <p align="center">
    <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="190" height="120" /></a>
-   <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="325" height="90"/></a>
+   <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="285" height="90"/></a>
    <a href="https://imgur.com/GlKA6lo"><img src="https://i.imgur.com/GlKA6lo.png" title="source: imgur.com" width="120" height="120"/></a>
 
 
