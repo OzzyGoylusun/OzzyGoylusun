@@ -11,12 +11,10 @@ I am Turkish-Australian, currently exploring the depths of the beautiful data wo
   <a href="mailto:goylusun@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/ozzygoylusun/">
+   <a href="https://www.linkedin.com/in/ozzygoylusun/" style="text-decoration: none;"></a> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge" height="35"/>
-  </a>
-
-  <a href="https://www.youtube.com/channel/UCaEnuGKGWscOZTWAmJDXyrQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  <a href="https://medium.com/@goylusun/">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" height="35"/>
   </a>
  
 </div>
