@@ -30,7 +30,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 - 🌱 I’m currently learning advanced data manipulation and machine learning.
 - 👯 I’m open to collaborate on data analysis projects.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/ozzygoylusun/) and read my articles on [Medium.](https://medium.com/@goylusun)
-- 💼 Any freelance work you might request? Please reach out by email :)
+- 💼 Any freelance work you might be interested in? Please reach out by email :)
 <br>
 
 ## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Analysis%20Icon.png" width="35"> Data Analysis Skills and Tools:
