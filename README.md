@@ -43,6 +43,7 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 
 <p align="center">
    <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="240" height="140" /></a>
+   <a src=![Uploading logo2.svg…]()
 
 
 ## 🔨 Other Skills and Tools:
