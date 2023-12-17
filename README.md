@@ -63,7 +63,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 </p>
 <br>
 
-## 🌐 You can also communicate with me via:
+## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Languages%20Icon.png" width="35"> You can also communicate with me via:
 
 <br>
 
