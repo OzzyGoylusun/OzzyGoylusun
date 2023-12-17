@@ -51,7 +51,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 </p>
 
 
-## 🔨 Other Skills and Tools:
+## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Other%20Skills%20and%20Tools%20Icon.png" width="40"> Other Skills and Tools:
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>
