@@ -10,11 +10,11 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 
 <div id="badges" align="left">
    <a href="mailto:goylusun@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"></a>
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height=30></a>
    <a href="https://www.linkedin.com/in/ozzygoylusun/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=35></a> 
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=30></a> 
    <a href="https://medium.com/@goylusun/">
-      <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=35></a> 
+      <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a> 
 </div>
 
 <br>
@@ -42,7 +42,7 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 ## 🚀 Data Visualisation Tools:
 
 <p align="center">
-   <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="190" height="120" /></a>
+   <a href="https://imgur.com/LIYXfuu"><img src="https://i.imgur.com/LIYXfuu.png" title="source: imgur.com" alt="PowerBI" width="180" height="120" /></a>
    <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="285" height="90"/></a>
    <a href="https://imgur.com/GlKA6lo"><img src="https://i.imgur.com/GlKA6lo.png" title="source: imgur.com" width="120" height="120"/></a>
 
@@ -52,6 +52,10 @@ I am currently exploring the depths of the beautiful data world as a passionate 
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Github" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>
+ <a href="https://imgur.com/Bt6Cdfp"><img src="https://i.imgur.com/Bt6Cdfp.png" title="source: imgur.com" width="60" height="60"/></a>
+ <a href="https://imgur.com/YJmcXXk"><img src="https://i.imgur.com/YJmcXXk.png" title="source: imgur.com" width="60" height="60"/></a>
+ <a href="https://imgur.com/XviOebl"><img src="https://i.imgur.com/XviOebl.png" title="source: imgur.com" width="60" height="60"/></a>
+ 
 </p>
 <br>
 
@@ -66,14 +70,14 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 
 <br>
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
-[**Drop a Mail**](mailto:goylusun@gmail.com)
+-[**Drop a Mail**](mailto:goylusun@gmail.com)
 
-[**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
+-[**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
     
 <div align="center">
-<img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/connected.gif" alt="Ozzy Goylusun" width="350" height="200" />
 </div>
 
       
