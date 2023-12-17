@@ -61,25 +61,24 @@ I am Turkish-Australian, currently exploring the depths of the beautiful data wo
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
-###
-
-- 📫 How to reach me:
-
-    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
-
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
-
-    * [**Visit my Website**](https://raghavk16.github.io/)
-    
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</div>
-
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
 | German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language         
+| Czech         | Native language   
+
+###
+
+- 📫 How to reach me:
+
+    * [**Drop a Mail**](mailto:goylusun@gmail.com)
+
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/ozzygoylusun/)
+    
+<div align="center">
+<img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+</div>
+
+      
