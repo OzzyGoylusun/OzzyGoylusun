@@ -55,6 +55,7 @@ I am currently exploring the depths of the beautiful data world as a passionate 
 <br>
 
 ## 🌐 Other Languages You Can Communicate With Me:
+<br>
 
 | Language  | Proficiency     | Flags                      |
 | :-------- | :-------        | :------------------------- |
