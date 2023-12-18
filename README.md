@@ -57,6 +57,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60"/>
  <a href="https://imgur.com/Bt6Cdfp"><img src="https://i.imgur.com/Bt6Cdfp.png" title="source: imgur.com" width="60" height="60"/></a>
+ <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/BBEdit.png" title="BBEdit" alt="BBEdit" width="60" height="60"/>
  <a href="https://imgur.com/YJmcXXk"><img src="https://i.imgur.com/YJmcXXk.png" title="source: imgur.com" width="60" height="60"/></a>
  <a href="https://imgur.com/XviOebl"><img src="https://i.imgur.com/XviOebl.png" title="source: imgur.com" width="60" height="60"/></a>
  
