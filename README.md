@@ -27,8 +27,8 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 
 ## 🧐 More About Me:
 - 👨‍💻 I’m a data analyst who loves documenting his journey while assisting others.
-- 🌱 I’m currently learning advanced data manipulation and machine learning.
-- 👯 I’m open to collaborate on data analysis projects.
+- 🌱 I’m currently learning advanced data manipulation and machine learning techniques.
+- 👯 I’m open to collaborate on data analysis projects, including volunteer work.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/ozzygoylusun/) and read my articles on [Medium.](https://medium.com/@goylusun)
 - 💼 Any freelance work you might be interested in? Please reach out by email :)
 <br>
