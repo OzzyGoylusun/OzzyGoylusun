@@ -47,7 +47,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 <p align="center">
    <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Power%20BI%20Logo.svg" alt="PowerBI" width="200" height="100" />
    <a href="https://imgur.com/gOqe43v"><img src="https://i.imgur.com/gOqe43v.png" title="source: imgur.com" width="240" height="80"/></a>
-   <a href="https://imgur.com/GlKA6lo"><img src="https://i.imgur.com/GlKA6lo.png" title="source: imgur.com" width="120" height="110"/></a>
+   <a href="https://imgur.com/GlKA6lo"><img src="https://i.imgur.com/GlKA6lo.png" title="source: imgur.com" width="120" height="120"/></a>
 </p>
 
 
