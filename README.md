@@ -46,7 +46,7 @@ As part of my exploration work, I also like to share bits and pieces of my humbl
 ## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Visualisation%20Icon.png" width="35" style="margin-right: 100px;"> Data Visualisation Tools:
 <p align="center">
    <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Power%20BI%20Logo.svg" alt="PowerBI" width="200" height="100"/>
-   <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Matplotlib%20Logo.png" title="Matplotlib" width="340" height="110"/></a>
+   <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Matplotlib%20Logo.png" title="Matplotlib" width="320" height="100"/></a>
    <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Seaborn%20Logo.svg" alt="Seaborn" width="200" height="130"/></a>
 </p>
 
