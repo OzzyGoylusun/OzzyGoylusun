@@ -33,7 +33,7 @@ As part of my data exploration work, I also like to share bits and pieces of my 
 - 💼 Any freelance work you might be interested in? Please reach out by email :)
 <br>
 
-## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Analysis%20Icon.png" width="35"> Data Analysis Skills and Tools:
+## <img src="https://github.com/OzzyGoylusun/OzzyGoylusun/blob/main/Data%20Analysis%20Icon.png" width="25"> Data Analysis Skills and Tools:
 <p align="center">
  <a href="https://imgur.com/FE8990X"><img src="https://i.imgur.com/FE8990X.png" title="source: imgur.com" alt="Excel" width="90" height="90" /></a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="90" height="90"/>
